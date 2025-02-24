@@ -10,7 +10,7 @@ function AppDemo() {
       <Placeholder header="TonRush" description="TON Affiliates Pool">
         <img
           alt="Telegram sticker"
-          src="..\src\assets\logo.jpg"
+          src="logo.jpg"
           style={{ display: "block", width: "144px", height: "144px" }}
           className="rounded-full"
         />
